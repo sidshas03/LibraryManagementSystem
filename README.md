@@ -56,7 +56,7 @@ A role-based full-stack web application that allows clients and admins to manage
 
 ---
 
-## 📊 Sample Dashboard Graphs
+## 📊 Dashboard Graphs
 
 Admins see:
 - Book rental trends
