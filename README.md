@@ -66,13 +66,3 @@ Admins see:
 Customers see:
 - Personal booking history
 - Payment summaries
-
----
-
-## 📸 Screenshots
-- Admin Dashboard  
-- Book List & Author Table  
-- Event Booking & Expense Tracker  
-- Study Room Reservations  
-- Invoice Generation and View  
-- SQL Tables via phpMyAdmin
