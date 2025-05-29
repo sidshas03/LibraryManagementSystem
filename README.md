@@ -1,6 +1,6 @@
 # 📚 Library & Event Booking Management System
 
-A role-based full-stack web application that allows clients and admins to manage books, events, study room reservations, and payment tracking. Developed as a course project for CS-GY 6083 – Principles of Database Systems (Spring 2025).
+A role-based full-stack web application that allows clients and admins to manage books, events, study room reservations, and payment tracking. 
 
 ---
 
